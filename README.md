@@ -1,6 +1,5 @@
 # SWFFT = TOP5
 
-
 #01 – Find / build a Shelter.
 
 #02 – Find fresh Water. Always stay hydrated.
