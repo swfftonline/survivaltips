@@ -11,7 +11,6 @@
 
 #05 – Use your Tools. Use a knife, axe, saw and other gear.
 
-_ _ _ _ _ _ _
 
 #06 – Know the terrain. Don’t get lost.
 
